@@ -3,8 +3,6 @@ description: Jekyll microtheme that looks like JSON
 baseurl: ""
 url: https://enggarr.io
 
-theme: hacked-jekyll
-
 exclude:
   - LICENSE
   - README.md
