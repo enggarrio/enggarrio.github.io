@@ -1,0 +1,19 @@
+title: Julian Enggarrio
+description: Jekyll microtheme that looks like JSON
+baseurl: ""
+url: https://enggarr.io
+
+theme: hacked-jekyll
+
+exclude:
+  - LICENSE
+  - README.md
+  - vendor/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+  

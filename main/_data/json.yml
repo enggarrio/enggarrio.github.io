@@ -1,0 +1,23 @@
+- key: Name
+  value: Julian Enggarrio
+- key: Description
+  value:
+    - Hello!
+    - This is my personal website
+    - I am looking for software engineer job
+    - My main languages are Go and Typescript
+  typed: true
+- key: Contact
+  value:
+    - key: Email
+      value: enggarrio.pratama@gmail.com
+      url: "mailto:enggarrio.pratama@gmail.com"
+- key: Profiles
+  value:
+    - value: LinkedIn
+      url: https://www.linkedin.com/in/enggarrio/
+    - value: GitHub
+      url: https://github.com/enggarrio
+- key: Theme_Source
+  value: piazzai/hacked-jekyll
+  url: https://github.com/piazzai/hacked-jekyll
